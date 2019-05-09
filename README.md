@@ -8,7 +8,7 @@ E.ngineering
 S.cience and
 T.echnology
 
-The code here is a derivative of CPP code with a few variations. For the sake of simplicity for my 6th graders, I have chosen to leave out headers, Object Oriented Programming, Pointers, Namespaces, etc. As well as leaving out the allowed element of multiple files and classes. I did however dive into functions and their usefulness to such students. 
+The code here is a derivative of CPP code with a few variations. For the sake of simplicity for my 6th graders, I have chosen to leave out the teaching of headers, Object Oriented Programming, Pointers, Namespaces, etc. As well as leaving out the allowed element of multiple files and classes. I did however dive into functions and their usefulness to such students. 
 
 The goal of the competition is to have a middle or high school team take raw plywood, pvc, attachment hardware (screws, bolts, cement) and the provided electronics and to build and program the robot from scratch with only instruction and no physical help in the timespan of 6 weeks from finding out the game to the day that they compete. 
 
